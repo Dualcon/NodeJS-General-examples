@@ -1,0 +1,15 @@
+{
+  "name": "node.js-jsdoc",
+  "version": "1.0.0",
+  "description": "Generate documentation example.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "documentation",
+    "jsdoc"
+  ],
+  "author": "Wiki Dreams <danielsantosvieiramail@gmail.com> (https://github.com/WikiDreams)",
+  "license": "ISC"
+}

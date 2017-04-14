@@ -1,0 +1,11 @@
+{
+  "name": "node.js-fs",
+  "version": "1.0.0",
+  "description": "fs examples.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wiki Dreams <danielsantosvieiramail@gmail.com> (https://github.com/WikiDreams)",
+  "license": "ISC"
+}

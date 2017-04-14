@@ -1,0 +1,21 @@
+{
+  "name": "json-to-file",
+  "version": "1.0.0",
+  "description": "Write and read json from files.",
+  "main": "./lib/json-to-file.js",
+  "scripts": {
+    "test": "mocha --reporter dot"
+  },
+  "keywords": [
+    "json",
+    "write",
+    "read",
+    "file"
+  ],
+  "author": "Wiki Dreams <danielsantosvieiramail@gmail.com> (https://github.com/WikiDreams)",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0"
+  }
+}
