@@ -1,0 +1,196 @@
+			
+	REFª	Familia	Subfamilia	PRODUTO	CAPAC	CUSTO	QTD	CUSTO	QTD	VALOR 
+						ACTUAL	PEDIDA		RECEBIDA	ANTERIOR
+1				Andreia Nail Polish						
+2	0UVPA1...	Nails	Nail Polish	Verniz Andreia - Cremoso e Hipoalergénico	10,5ml	0,89 €	10			
+3	0UVA14…	Nails	Nail Polish	Verniz Andreia Pocket - cremoso e hipoalergénico	14ml	1,41 €	10			
+4				Andreia 14 Ever						
+5	0U14ESB1	Nails	14EVER	14EVER Super Base	10,5ml	1,99 €	10			
+6	0U14ESCE..	Nails	14EVER	14EVER Super Color	10,5ml	1,40 €	10			
+7	0U14ESS1	Nails	14EVER	14EVER Super Shine	10,5ml	1,99 €	10			
+8	0U14EC1	Nails	14EVER	Cleanser 14 Ever	50ml	1,63 €	10			
+9				Andreia Breathable						
+10	0UABNPB	Nails	Breathable	Breathable Nail Polish	10,5ml	1,90 €	10			
+11	0UABOB1	Nails	Breathable	Breathable Base 	10,5ml	1,90 €	10			
+12	0UABTC1	Nails	Breathable	Breathable Top Coat	10,5ml	1,90 €	10			
+13	0UAR1	Nails	Breathable	Remover Nail Polish - Wow Remove & Go 75 ml 	75ml	2,35 €	10			
+14				Andreia Extreme Care						
+15	0ECWM1	Nails	Treatments	Extreme Care Whitening Mask / Máscara Branqueadora	10,5ml	1,81 €	10			
+16	0ECC1	Nails	Treatments	Extreme Care Corrector/ Corretor	10,5ml	1,31 €	10			
+17	0ECCA1	Nails	Treatments	Extreme Care Calcium/ Cálcio	10,5ml	1,31 €	10			
+18	0ECC+1	Nails	Treatments	Andreia Nail Polish	10,5ml	1,34 €	10			
+19	0ECB1	Nails	Treatments	Extreme Care Bitter / Amargo	10,5ml	1,31 €	10			
+20	0ECH1	Nails	Treatments	Extreme Care Hardener / Endurecedor	10,5ml	1,58 €	10			
+21	0ECSBC1	Nails	Base Coats	Extreme Care Strengthening Base Coat/ Base Fortificante	10,5ml	1,31 €	10			
+22	0ECVBC1	Nails	Base Coats	Extreme Care Vitamin Base Coat / Base Vitaminada	10,5ml	1,31 €	10			
+23	0ECPBC1	Nails	Base Coats	Extreme Care Proteins Base Coat 7 Base de Proteinas	10,5ml	1,31 €	10			
+24	0ECCR1	Nails	Cuticles	Extreme Care Cuticule Remover / Removedor de Cuticulas	10,5ml	1,31 €	10			
+25	0ECPO1	Nails	Cuticles	Extreme Care Protective Oil 7 óleo Protector	10,5ml	1,31 €	10			
+26	0ECMCO1	Nails	Cuticles	Extreme Care Marula Cuticule Oil / óleo de Cuticulas de Marula	10,5ml	1,58 €	10			
+27	0ECMACCO1	Nails	Cuticles	Extreme Care Macadamia Cuticule Oil 7/ óleo de Cuticulas de Macadamia	10,5ml	1,58 €	10			
+28	0ECLCO1	Nails	Cuticles	Extreme Care Lemon Cuticule Oil / óleo de Cuticulas de Limão	10,5ml	1,58 €	10			
+29				Andreia Extreme Effect						
+30	0EEGLTC1	Nails	Complements	Extreme Effect Gel Look Top Coat/ Efeito Gel	10,5ml	1,34 €	10			
+31	0EEMTC1	Nails	Complements	Extreme Effect Matte Look Top Coat / Efeito Mate	10,5ml	1,34 €	10			
+32	0EESTC1	Nails	Complements	Extreme Effect Shine Top Coat/ Brilho	10,5ml	1,31 €	10			
+33	0EEDTC1	Nails	Complements	Extreme Effect Dryer Top Coat / Secante	10,5ml	1,31 €	10			
+34	0EEED1	Nails	Complements	Extreme Effect Drop Express Dry/ Secante Rápido	10,5ml	2,11 €	10			
+35	0EEGPO1	Nails	Complements	Extreme Effect Gummy - Peel off	10,5ml	1,31 €	10			
+36				Andreia Essentials						
+37	0URV15	Nails	Remover	Removedor de Verniz com amaciador	150ml	1,18 €	10			
+38	0URV50	Nails	Remover	Removedor de Verniz com amaciador	500ml	2,01 €	10			
+39	0URV10	Nails	Remover	Removedor de Verniz com amaciador	1000ml	3,20 €	10			
+40	0URVCC15	Nails	Remover	Removedor de verniz com amaciador - aroma a Coco	150ml	1,26 €	10			
+41	0URVCC50	Nails	Remover	Removedor de verniz com amaciador - aroma a Coco	500ml	2,22 €	10			
+42	0URVCC10	Nails	Remover	Removedor de verniz com amaciador - aroma a Coco	1000ml	3,48 €	10			
+43	0URVSA15	Nails	Remover	Removedor de verniz sem acetona- Aroma  melão	150ml	1,79 €	10			
+44	0URVSA50	Nails	Remover	Removedor de verniz sem acetona- Aroma  melão	500ml	3,85 €	10			
+45	0URVSA10	Nails	Remover	Removedor de verniz sem acetona- Aroma  melão	1000ml	7,30 €	10			
+46	0UAR1	Nails	Remover	Wow Removedor de verniz em Esponja	75ml	2,35 €	10			
+47	0UDV5	Nails	Thinner	Verniz Diluente	50ml	2,77 €	10			
+48	0UDV15	Nails	Thinner	Verniz Diluente	150ml	3,47 €	10			
+49	0UQ5	Nails	Cuticles	Removedor de Cuticulas	50ml	2,45 €	10			
+50				Andreia Hybrid Gel						
+51	0UHGH…	Nails	Hybrid Gel	Hybrid Gel - Fusion Color - NEW	10,5ml	1,41 €	10			
+52	0UHGFS2	Nails	Hybrid Gel	Hybrid Gel - Fusion Shine - NEW	10,5ml	2,23 €	10			
+53				Andreia Gel Line						
+54	0UAUBP01	Nails	Gel 	Ultrabond - Primer	10,5ml	1,56 €	10			
+55	0UABTC01	Nails	Gel 	Base/Top Coat 2 em 1	10,5ml	3,00 €	10			
+56	0UAGP...	Nails	Gel 	Verniz Gel	10,5ml	3,09 €	10			
+57	0U1MGM...       	Nails	Gel 	1 Minute Gel 	10,5ml	4,17 €	10			
+58	0UGPC1	Nails	Gel 	Cleanser 	50ml	1,63 €	10			
+59	0UGPC25	Nails	Gel	Cleanser 	250ml	1,74 €	10			
+60	0UGPC50	Nails	Gel	Cleanser 	500ml	3,09 €	10			
+61	0UGPNC25	Nails	Gel	Cleanser Crystal Shine 250 ml	250ml	2,77 €	10			
+62	0UGPNC50	Nails	Gel	Cleanser Crystal Shine 500 ml	500ml	4,73 €	10			
+63	0URVG25	Nails	Gel	Removedor de Verniz Gel	250ml	1,82 €	10			
+64	0URVG50	Nails	Gel	Removedor de Verniz Gel	500ml	2,66 €	10			
+65				Andreia Profection Gel Builder						
+66	0PBG1	Nails	Base Coats	Profection Base Gel 	22gr	5,42 €	10			
+67	0PBG3/1C1	Nails	3 em 1	Profection Gel de Construção 3 in 1 - Clear 	22gr	6,18 €	10			
+68	0PBG3/1C2	Nails	3 em 1	Profection Gel de Construção 3 in 1 - Clear 	44gr	10,07 €	10			
+69	0PBG3/1SW1	Nails	3 em 1	Profection Gel de Construção 3 in 1 - Soft White	22gr	6,18 €	10			
+70	0PBG3/1SW2	Nails	3 em 1	Profection Gel Builder 3 in 1 - Soft White	44gr	10,07 €	10			
+71	0PKBG3/11	Nails	Kit	Profection kit -  Gel de Construção 3 in 1 3 in 1	1 un. 	18,39 €	10			
+72	0PBGW1	Nails	Low Heat	Profection Gel de Construção - White 	22gr	5,42 €	10			
+73	0PBGCP1	Nails	Low Heat	Profection Gel de Construção - Cover Pink	22gr	5,42 €	10			
+74	0PBGC1	Nails	Low Heat	Profection Gel de Construção - Clear 	22gr	5,42 €	10			
+75	0PBGC2	Nails	Low Heat	Profection Gel de Construção - Clear 	44gr	8,98 €	10			
+76	0PBGSP1	Nails	Low Heat	Profection Gel de Construção - Soft Pink	22gr	5,42 €	10			
+77	0PBGSP2	Nails	Low Heat	Profection Gel de Construção - Soft Pink	44gr	8,98 €	10			
+78	0PBGSW1	Nails	Low Heat	Profection Gel de Construção - Soft White	22gr	5,42 €	10			
+79	0PBGSW2	Nails	Low Heat	Profection Gel de Construção - Soft White	44gr	8,98 €	10			
+80	0PKBG1	Nails	Kit	Profection kit -  Gel de Construção	1 un.	25,08 €	10			
+81				Andreia Profection Acrylics						
+82	0PAPW1	Nails	Acrylic Powder	Profection Pó acrilico - White	20gr	4,41 €	10			
+83	0PAPW3	Nails	Acrylic Powder	Profection Pó acrilico - White - Branco 	340gr	16,25 €	10			
+84	0PAPSW1	Nails	Acrylic Powder	Profection Pó acrilico - Soft White 	20gr	4,41 €	10			
+85	0PAPSW2	Nails	Acrylic Powder	Profection Pó acrilico - Soft White 	35gr	5,87 €	10			
+86	0PAPSW3	Nails	Acrylic Powder	Profection Pó acrilico - Soft White 	340gr	16,25 €	10			
+87	0PAPC1	Nails	Acrylic Powder	Profection Pó acrilico - Clear 	20gr	4,41 €	10			
+88	0PAPC2	Nails	Acrylic Powder	Profection Pó acrilico - Clear 	35gr	5,87 €	10			
+89	0PAPSP1	Nails	Acrylic Powder	Profection Pó acrilico - Soft Pink 	22gr	4,41 €	10			
+90	0PAPSP2	Nails	Acrylic Powder	Profection Pó acrilico - Soft Pink 	35gr	5,87 €	10			
+91	0PAPSP3	Nails	Acrylic Powder	Profection Pó acrilico - Soft Pink 	340gr	16,25 €	10			
+92	0PAPCP1	Nails	Acrylic Powder	Profection Pó acrilico - Cover Pink 	22gr	4,41 €	10			
+93	0PAPCP2	Nails	Acrylic Powder	Profection Pó acrilico - Cover Pink 	35gr	5,87 €	10			
+94	0PAPCP3	Nails	Acrylic Powder	Profection Pó acrilico - Cover Pink 	340gr	16,25 €	10			
+95	0PALS1	Nails	Acrylic Liquid	Profection  Liquido acrilico - Secagem lenta	100ml	4,65 €	10			
+96	0PALS2	Nails	Acrylic Liquid	Profection  Liquido acrilico - Secagem lenta	500ml	17,67 €	10			
+97	0PALF1	Nails	Acrylic Liquid	Profection  Liquido acrilico - Secagem rápida	100ml	4,65 €	10			
+98	0PALF2	Nails	Acrylic Liquid	Profection  Liquido acrilico - Secagem rápida	500ml	17,67 €	10			
+99	0PKAB1	Nails	Kit	Profection kit - Acrilico para principiantes	1 un.	22,55 €	10			
+100	0PKAP1	Nails	Kit	Profection kit - Acrilico para profissionais	1 un.	22,55 €	10			
+101				Andreia Profection Acrylic & Gel						
+102	0PPGA1	Nails	Complements	Profection Primer para Gel & Acrylic	10,5ml	1,42 €	10			
+103	0PTCMGA1	Nails	Complements	Profection Top Coat Matte para Gel & Acrylic - NEW	10,5ml	3,52 €	10			
+104	0PTCGA1	Nails	Complements	Profection Top Coat para Gel & Acrylic	10,5ml	3,01 €	10			
+105	0PTCGANTL1	Nails	Complements	Profection Top Coat para Gel & Acrylic (No Tacky Layer) - sem goma	10,5ml	3,15 €	10			
+106	0PPPGA1	Nails	Preparation	Profection Prep para Gel & Acrylic 	250ml	2,00 €	10			
+107	0PPPGA2	Nails	Preparation	Profection Prep para Gel & Acrylic 	500ml	3,06 €	10			
+108	0PEGCGA1	Nails	Cleanser	Profection Extra Glow Cleanser para Gel & Acrylic 	250ml	2,79 €	10			
+109	0PEGCGA2	Nails	Cleanser	Profection Extra Glow Cleanser para Gel & Acrylic 	500ml	4,47 €	10			
+110				Andreia Accessories						
+111	0UT1	Nails	Accessories	Toalha	1 un.	2,47 €	10			
+112	0UNF1	Nails	Accessories	Lima	1 un.	0,60 €	10			
+113	0UB1	Nails	Accessories	Buffer	1 un.	1,16 €	10			
+114	1ANGL1	Nails	Accessories	a. Lamp - Catalisador de última geração LED/UV	1 un.	41,60 €	10			
+115	1APAC9	Nails	Accessories	Pincel Kolinsky para Construção em acrilico n. 9	1 un.	8,98 €	10			
+116	1APANA4	Nails	Accessories	Pincel Kolisnky para  Nail Art em acrilico n. 4  	1 un.	6,41 €	10			
+117	1APBG2	Nails	Accessories	Pincel  Kolisnky para Base Gel n.2	1 un.	6,27 €	10			
+118	1APBG7	Nails	Accessories	Pincel para  Gel de construção  nº7	1 un.	3,06 €	10			
+119	1APNASAA1	Nails	Accessories	Pincel para Nail Art One Stroke Angular nº A1	1 un.	2,99 €	10			
+120	1APNASSS1	Nails	Accessories	Pincel para  Nail Art One Stroke quadrado nº S1	1 un.	2,99 €	10			
+121	1APNAM000	Nails	Accessories	Pincel para Nail Art Mini n. 000	1 un.	2,92 €	10			
+122	1APNAGP4	Nails	Accessories	Pincel para Nail Art Gel Paint nº4	1 un.	2,99 €	10			
+123	1APPR	Nails	Accessories	Pincel para remover o pó	1 un.	4,42 €	10			
+124	1AM1	Nails	Accessories	Moldes All in 1 – 500 units	1 un.	4,96 €	10			
+125				Andreia Velvet Hands						
+126	0MSL25	Hands	Cleaning Solution	Solução de limpeza de mãos	250ml	2,31 €	10			
+127	0MSL50	Hands	Cleaning Solution	Solução de limpeza de mãos	500ml	3,52 €	10			
+128	0MPG25	Hands	Masks	Parafina Gel	250ml	3,20 €	10			
+129	0MPG50	Hands	Masks	Parafina Gel	500ml	4,89 €	10			
+130	0MPGT25	Hands	Masks	Parafina Gel Tropical	250ml	3,20 €	10			
+131	0MPGT50	Hands	Masks	Parafina Gel Tropical	500ml	4,89 €	10			
+132	0MCMAHA50	Hands	Nourishers	Creme de mãos com Acidos de Frutos - AHA à base de extratos de palntas	500ml	7,15 €	10			
+133				Andreia Soft Feet						
+134	0PSLP50	Feet	Cleaning Solution	Solução de limpeza de pés	500ml	2,83 €	10			
+135	0PSLP10	Feet	Cleaning Solution	Solução de limpeza de pés	1000ml	4,31 €	10			
+136	0PLP50	Feet	Anti-septics	Banho de pés com acido lacteo	500ml	2,61 €	10			
+137	0PLP10	Feet	Anti-septics	Banho de pés com acido lacteo	1000ml	3,68 €	10			
+138	0PPPM25	Feet	Exfoliants	Gel Exfoliante de pés e mãos com Aloe Vera e Camomila	250ml	5,81 €	10			
+139	0PPPM50	Feet	Exfoliants	Gel Exfoliante de pés e mãos com Aloe Vera e Camomila	500ml	10,57 €	10			
+140	0PGC25	Feet	Calluses	Gel Anti Calosidades	250ml	4,46 €	10			
+141	0PGC50	Feet	Calluses	Gel Anti Calosidades	500ml	6,62 €	10			
+142	0PCC25	Feet	Calluses	Creme anti calosidades com óleo de Amendoas doces	250ml	5,40 €	10			
+143	0PCC50	Feet	Calluses	Creme anti calosidades com óleo de Amendoas doces	500ml	8,28 €	10			
+144	0PCP25	Feet	Moisturizers	Creme de pés com Lanolina e Alantoína	250ml	4,17 €	10			
+145	0PCP50	Feet	Moisturizers	Creme de pés com Lanolina e Alantoína	500ml	6,92 €	10			
+146	0PCPP50	Feet	Moisturizers	Creme de pés - Boião profissional	500ml	6,92 €	10			
+147	0PSP25	Feet	Specifics	Spray para pés com mentol	250ml	4,43 €	10			
+148				Andreia Body Works						
+149	0CSLC25	Body	Cleaning Solution	Solution Body Cleaning 	250ml	2,47 €	10			
+150	0CSLC50	Body	Cleaning Solution	Solution Body Cleaning 	500ml	3,96 €	10			
+151	0CEC25	Body	Exfoliants	Exfoliating Body Gel with peach seed	250ml	8,40 €	10			
+152	0CEC50	Body	Exfoliants	Exfoliating Body Gel with peach seed	500ml	13,59 €	10			
+153	0CCML25	Body	Shaping	Shaping and Liporeducing Cream with Plant extracts, Algae and Cocoa	250ml	11,12 €	10			
+154	0CCML50	Body	Shaping	Shaping and Liporeducing Cream with Plant extracts, Algae and Cocoa	500ml	19,86 €	10			
+155	0CCC25	Body	Shaping	Anti-Cellulite Cream with plant extract and algae	250ml	6,09 €	10			
+156	0CCC50	Body	Shaping	Anti-Cellulite Cream with plant extract and algae	500ml	10,87 €	10			
+157	0CGA25	Body	Slimming	Slimming Gel with Plant extract and Menthol	250ml	7,15 €	10			
+158	0CGA50	Body	Slimming	Slimming Gel with Plant extract and Menthol	500ml	13,78 €	10			
+159	0CCR25	Body	Slimming	Firming Cream based on Plant extracts	250ml	10,49 €	10			
+160	0CCCM25	Body	Moisturizers	Body and Hand Cream	250ml	2,90 €	10			
+161	0CCCM50	Body	Moisturizers	Body and Hand Cream	500ml	5,04 €	10			
+162	0CCE15	Body	Specifics	Anti-Stretch Mark based on Plant extracts	150ml	6,39 €	10			
+163	0CCS15	Body	Specifics	Salicylate Cream with Plant extracts	150ml	4,62 €	10			
+164	0CGE25	Body	Specifics	Stimulating Gel for tired Legs based on Plant extracts and Menthol	250ml	4,66 €	10			
+165				Andreia Dead Sea Enigma						
+166	0DSM1	Dead Sea	Masks	Dead Sea Facial Mud Mask with Avocado, Olive, Castor and Almond Oil	100gr	8,39 €	10			
+167	0DSM5	Dead Sea	Masks	Dead Sea Facial Mud Mask with Avocado, Olive, Castor and Almond Oil	0,5kg	16,86 €	10			
+168	0DSL5	Dead Sea	Masks	Dead Sea Black Mud Body Treatment with Olive Oil	0,5kg	9,83 €	10			
+169	0DSL1	Dead Sea	Masks	Dead Sea Black Mud Body Treatment with Olive Oil	1kg	16,57 €				
+170	0DSECC01	Dead Sea	Exfoliants	Dead Sea Salt Body Scrub with Avocado oil, Cucumber & Green Tea	312gr	7,95 €	10			
+171	0DSECL01	Dead Sea	Exfoliants	Dead Sea Salt Body Scrub with Castor oil & Lavender	312gr	7,95 €	10			
+172				Andreia Silky Skin						
+173	0DGPP25	Depil	After Depil	Prepil Gel with Menthol and Camphor	250ml	6,39 €	10			
+174	0DLPD50	Depil	Before Depil	After-Waxing Milk with Aloe, Menthol and Chamomile	500ml	5,53 €	10			
+175	0DLR15	Depil	Before Depil	Hair Growth Retarding Milk with Sweet Almond, Aloe and Papaya	150ml	4,92 €	10			
+176	0DLR50	Depil	Before Depil	Hair Growth Retarding Milk with Sweet Almond, Aloe and Papaya	500ml	11,76 €	10			
+177	0DLOPD50	Depil	Before Depil	After-waxing Lotion with Aloe, Menthol and Chamomile	500ml	5,64 €	10			
+178	0DOM15	Depil	Before Depil	Mint Oil	150ml	2,50 €	10			
+179	0DOM50	Depil	Before Depil	Mint Oil	500ml	6,31 €	10			
+180	0DRRC50	Depil	Specifics	Wax Remover - normal	500ml	2,88 €	10			
+181	0DRRC10	Depil	Specifics	Wax Remover - normal	1000ml	5,00 €	10			
+182	0DRRCP50	Depil	Specifics	Wax Remover - Cucumber & Green Tea- Pots, Floor and Clothes	500ml	3,31 €	10			
+183	0DRRCP10	Depil	Specifics	Wax Remover - Cucumber & Green Tea- Pots, Floor and Clothes	1000ml	5,41 €	10			
+184				Andreia Cleanliness						
+185	0DSLM10	Clean	Cleaning Solution	 Solution Materials Cleaning  - Hygiene and Cleaning	1000ml	5,65 €	10			
+186	0BV10	Clean	Desinfectants	BIO-VIRU Desinfectant - Floor and work surfaces	1000ml	10,06 €	10			
+						948,67 €		0,00		
+										
+										
+										
+										
+										
+										
